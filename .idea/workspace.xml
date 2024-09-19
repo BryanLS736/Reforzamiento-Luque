@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b602df00-81ff-40a7-975d-1b6342feb10d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Reforzamiento 4/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reforzamiento 4/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reforzamiento 4/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reforzamiento 4/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reforzamiento 4/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reforzamiento 4/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reforzamiento 4/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reforzamiento 4/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reforzamiento 4/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reforzamiento 4/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reforzamiento 4/ejemplo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/Borrador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/Modulo_ejercicio_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/Modulo_ejercicio_6_operaciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/Modulo_ejercicio_7_operaciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reforzamiento 5/Modulo_ejercicio_8_operaciones.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +64,7 @@
     &quot;Python.7.executor&quot;: &quot;Run&quot;,
     &quot;Python.8.executor&quot;: &quot;Run&quot;,
     &quot;Python.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Borrador.executor&quot;: &quot;Run&quot;,
     &quot;Python.Diccionarios - 1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Diccionarios - 2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Diccionarios - 3.executor&quot;: &quot;Run&quot;,
@@ -82,7 +88,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Developer/Python&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Developer_Python/Reforzamiento&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -92,7 +98,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.10">
+  <component name="RunManager" selected="Python.7">
     <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Reforzamiento" />
       <option name="ENV_FILES" value="" />
@@ -102,12 +108,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reforzamiento 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reforzamiento 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reforzamiento 4/10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reforzamiento 5/10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Reforzamiento" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,12 +131,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reforzamiento 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reforzamiento 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Developer\Reforzamiento\Reforzamiento 4\10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reforzamiento 5/11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,12 +154,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reforzamiento 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reforzamiento 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reforzamiento 4/7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reforzamiento 5/7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,12 +177,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reforzamiento 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reforzamiento 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reforzamiento 4/9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reforzamiento 5/9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejemplo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Borrador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Reforzamiento" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,12 +200,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reforzamiento 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reforzamiento 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reforzamiento 4/ejemplo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reforzamiento 5/Borrador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,9 +216,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10" />
         <item itemvalue="Python.7" />
-        <item itemvalue="Python.ejemplo" />
+        <item itemvalue="Python.Borrador" />
+        <item itemvalue="Python.11" />
+        <item itemvalue="Python.10" />
         <item itemvalue="Python.9" />
       </list>
     </recent_temporary>
@@ -248,6 +255,12 @@
       <workItem from="1725736631905" duration="36000" />
       <workItem from="1726167782403" duration="15524000" />
       <workItem from="1726256051831" duration="18357000" />
+      <workItem from="1726281682052" duration="126000" />
+      <workItem from="1726406644357" duration="34000" />
+      <workItem from="1726610775495" duration="12458000" />
+      <workItem from="1726674995910" duration="7319000" />
+      <workItem from="1726701599179" duration="3102000" />
+      <workItem from="1726785693697" duration="2629000" />
     </task>
     <servers />
   </component>
@@ -255,37 +268,38 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Reforzamiento$3.coverage" NAME="3 Coverage Results" MODIFIED="1726187847265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 4" />
+    <SUITE FILE_PATH="coverage/Reforzamiento$3.coverage" NAME="3 Coverage Results" MODIFIED="1726613770589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 5" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Lista___4.coverage" NAME="Lista - 4 Coverage Results" MODIFIED="1725586076061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
-    <SUITE FILE_PATH="coverage/Reforzamiento$9.coverage" NAME="9 Coverage Results" MODIFIED="1726258036350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 4" />
+    <SUITE FILE_PATH="coverage/Reforzamiento$9.coverage" NAME="9 Coverage Results" MODIFIED="1726678445943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 5" />
     <SUITE FILE_PATH="coverage/Reforzamiento$ejemplo.coverage" NAME="ejemplo Coverage Results" MODIFIED="1726266463558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 4" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Listas___2.coverage" NAME="Listas - 2 Coverage Results" MODIFIED="1725584953157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Lista___7.coverage" NAME="Listas - 7 Coverage Results" MODIFIED="1725587601718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
-    <SUITE FILE_PATH="coverage/Reforzamiento$6.coverage" NAME="6 Coverage Results" MODIFIED="1726174964487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 4" />
-    <SUITE FILE_PATH="coverage/Reforzamiento$5.coverage" NAME="5 Coverage Results" MODIFIED="1726172593924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 4" />
-    <SUITE FILE_PATH="coverage/Reforzamiento$2.coverage" NAME="2 Coverage Results" MODIFIED="1726169297801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 4" />
+    <SUITE FILE_PATH="coverage/Reforzamiento$6.coverage" NAME="6 Coverage Results" MODIFIED="1726618986520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 5" />
+    <SUITE FILE_PATH="coverage/Reforzamiento$5.coverage" NAME="5 Coverage Results" MODIFIED="1726617710417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 5" />
+    <SUITE FILE_PATH="coverage/Reforzamiento$2.coverage" NAME="2 Coverage Results" MODIFIED="1726613698278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 5" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Diccionarios___7.coverage" NAME="Diccionarios - 7 Coverage Results" MODIFIED="1725652769801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Diccionarios___4.coverage" NAME="Diccionarios - 4 Coverage Results" MODIFIED="1725652014167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Diccionarios___2.coverage" NAME="Diccionarios - 2 Coverage Results" MODIFIED="1725651503768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
-    <SUITE FILE_PATH="coverage/Reforzamiento$11.coverage" NAME="11 Coverage Results" MODIFIED="1724897967721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 2" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Listas___1__1_.coverage" NAME="Listas - 1 (1) Coverage Results" MODIFIED="1725584935567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
-    <SUITE FILE_PATH="coverage/Reforzamiento$8.coverage" NAME="8 Coverage Results" MODIFIED="1726187231770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 4" />
+    <SUITE FILE_PATH="coverage/Reforzamiento$11.coverage" NAME="11 Coverage Results" MODIFIED="1726703918987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 5" />
+    <SUITE FILE_PATH="coverage/Reforzamiento$Borrador.coverage" NAME="Borrador Coverage Results" MODIFIED="1726787882684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 5" />
+    <SUITE FILE_PATH="coverage/Reforzamiento$8.coverage" NAME="8 Coverage Results" MODIFIED="1726677078738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 5" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Listas___3.coverage" NAME="Listas - 3 Coverage Results" MODIFIED="1725585224802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Lista___6.coverage" NAME="Lista - 6 Coverage Results" MODIFIED="1725587175602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
-    <SUITE FILE_PATH="coverage/Reforzamiento$7.coverage" NAME="7 Coverage Results" MODIFIED="1726274561647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 4" />
+    <SUITE FILE_PATH="coverage/Reforzamiento$7.coverage" NAME="7 Coverage Results" MODIFIED="1726788304156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 5" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Diccionarios___8.coverage" NAME="Diccionarios - 8 Coverage Results" MODIFIED="1725658664416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Diccionarios___5.coverage" NAME="Diccionarios - 5 Coverage Results" MODIFIED="1725652218242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
-    <SUITE FILE_PATH="coverage/Reforzamiento$10.coverage" NAME="10 Coverage Results" MODIFIED="1726281517292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 4" />
+    <SUITE FILE_PATH="coverage/Reforzamiento$10.coverage" NAME="10 Coverage Results" MODIFIED="1726703895666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 5" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Listas___10.coverage" NAME="Listas - 10 Coverage Results" MODIFIED="1725735258291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Diccionarios___1.coverage" NAME="Diccionarios - 1 Coverage Results" MODIFIED="1725651079711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
     <SUITE FILE_PATH="coverage/Reforzamiento$12.coverage" NAME="12 Coverage Results" MODIFIED="1724898705825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 2" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Listas___11.coverage" NAME="Listas - 11 Coverage Results" MODIFIED="1725735859659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Listas___5.coverage" NAME="Listas - 5 Coverage Results" MODIFIED="1725585536774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
-    <SUITE FILE_PATH="coverage/Reforzamiento$1.coverage" NAME="1 Coverage Results" MODIFIED="1726187765409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 4" />
+    <SUITE FILE_PATH="coverage/Reforzamiento$1.coverage" NAME="1 Coverage Results" MODIFIED="1726613577157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 5" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Diccionarios___3.coverage" NAME="Diccionarios - 3 Coverage Results" MODIFIED="1725651767198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Listas___8.coverage" NAME="Listas - 8 Coverage Results" MODIFIED="1725660951413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
     <SUITE FILE_PATH="coverage/Reforzamiento$010.coverage" NAME="010 Coverage Results" MODIFIED="1726281226110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 4" />
     <SUITE FILE_PATH="coverage/Reforzamiento$Diccionarios___6.coverage" NAME="Diccionarios - 6 Coverage Results" MODIFIED="1725652435862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 3" />
-    <SUITE FILE_PATH="coverage/Reforzamiento$4.coverage" NAME="4 Coverage Results" MODIFIED="1726198254886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 4" />
+    <SUITE FILE_PATH="coverage/Reforzamiento$4.coverage" NAME="4 Coverage Results" MODIFIED="1726615354547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 5" />
   </component>
 </project>
